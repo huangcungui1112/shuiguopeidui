@@ -25,9 +25,10 @@
 
 下载链接.
 这个应用程序是WordPress REST API使用，所有的功能测试，WordPress上REST接口的必要。可自由使用这边的测试网站。应用软件下载，MIT AI 2 Companion应用程序或扫描仪应用在使用QR码扫描这个下载，或点击以下链接。https://drive.google.com/file/d/0B_lKiLz22m3xMVJDdEdaRXE0RDQ/view?usp=sharing
+
 二维码下载链接：
 
-![](/2wei.png)
+![](/2weima.png)
  
 Appendix
 WP REST APIはWordPressのプラグイン、 将来は WordPressコアに組み入れ、WordPressを ブログプラットフォーム/CMS から、本格的なアプリケーション・フレームワークへ変身するために一歩である。
