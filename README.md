@@ -28,7 +28,7 @@
 
 二维码下载链接：
 
-![](/wwww.png)
+![](/wwww.PNG)
  
 Appendix
 WP REST APIはWordPressのプラグイン、 将来は WordPressコアに組み入れ、WordPressを ブログプラットフォーム/CMS から、本格的なアプリケーション・フレームワークへ変身するために一歩である。
